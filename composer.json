@@ -1,0 +1,15 @@
+{
+    "name": "hp/contactform",
+    "autoload": {
+        "psr-4": {
+            "Package\\Contactform\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bhagat-infiniteit",
+            "email": "bhagat@infiniteit.biz"
+        }
+    ],
+    "require": {}
+}
