@@ -1,5 +1,5 @@
 {
-    "name": "hp/contactform",
+    "name": "bhagat/contactform",
     "autoload": {
         "psr-4": {
             "Package\\Contactform\\": "src/"
